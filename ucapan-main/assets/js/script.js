@@ -30,7 +30,7 @@ jam.innerHTML = `${hour}:${minutes}`
 
 // Dirubah 
 const pengirim = "Dwiki";
-const nomorWa = "6281351915160" // awalan nomor 0 harus di awalin 62
+const nomorWa = "6285753039151" // awalan nomor 0 harus di awalin 62
 const pesan = `aku benar benar nyesal udah ngelakuin itu semua, sampe kamu ngerasain sakit begini :( aku sedih, bukan karena kamu, tapi karena diriku sendiri, aku udah gagal jadi cowok yang baik buatmu, aku udah gagal jadi tempatmu ngerasa aman, aku udah gagal... sebagai cowokmu, aku minta maaf untuk ini semua :( aku gak bakal nyerah sebagai cowokmu, aku bakal jadi lebih baik dari sekarang, aku janji kita bakal jadi lebih baik lagii, maafin aku yahh sayangg. Aku benar-benar cowok paling beruntung karena punya kamu, aku tulus dalam mencintaimu. Makasih untuk semuanyaa, aku bangga banget sama kamu. I LOVE YOU MY HONEY❤️`;
 
 if (pengirim) {
